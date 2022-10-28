@@ -8,6 +8,16 @@
 
 body {
     background-color: white;
+    background-size: cover;
+}
+.requisitos{
+    position: relative;
+    text-align: center;
+}
+iframe{
+    width: 80%;
+    height: 150vh;
+}
 }
 
 .navegacion {
@@ -109,4 +119,3 @@ font-family:'Courier New', Courier, monospace ;
     border-radius: 15px;
     font-family:'Courier New', Courier, monospace ;
 }
-
